@@ -1,4 +1,4 @@
-<div class="testimonials-carousel owl-carousel owl-theme">
+<div class="related-post">
         <?php wp_reset_postdata();
           $relateds = new WP_Query(
                   array(
